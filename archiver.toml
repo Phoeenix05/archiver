@@ -1,0 +1,3 @@
+gh_user = "Phoeenix05"
+gh_folder_path = "/Users/antonfredriksson/GitHub"
+ignore = ["mangadex-reader", "archiver"]
