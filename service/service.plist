@@ -9,8 +9,8 @@
             <string>/Users/antonfredriksson/GitHub/archiver/service/service</string>
         </array>
         <key>WorkingDirectory</key>
-        <string>/Users/antonfredriksson/GitHub/archiver/service/</string>
+        <string>/Users/antonfredriksson/GitHub/archiver/service</string>
         <key>StartInterval</key>
-        <integer>86400</integer>        <!-- Replace N with your desired interval in minutes -->
+        <integer>86400</integer>
     </dict>
 </plist>

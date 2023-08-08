@@ -1,0 +1,8 @@
+# This file is linked to $HOME/.config/archiver/config.toml
+# Though you may need to link it manually yourself. 
+# `link $HOME/.config/archiver/config.toml config.toml`
+
+gh_user = "Phoeenix05"
+gh_folder_path = "/Users/antonfredriksson/GitHub"
+ignore = ["mangadex-reader", "archiver"]
+archive_after = 3
