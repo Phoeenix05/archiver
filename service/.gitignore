@@ -21,3 +21,6 @@
 
 # ...even if they are in subdirectories
 !*/
+
+!service.plist
+!install-service.sh
